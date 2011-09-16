@@ -4,7 +4,7 @@ version := "$version$"
 
 scalaVersion := "2.9.1"
 
-organization := "$organization"
+organization := "$organization$"
 
 javaOptions += "-Xmx912m"
 
