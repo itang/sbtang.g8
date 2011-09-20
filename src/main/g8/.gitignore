@@ -9,6 +9,9 @@ project/boot/
 project/plugins/project/
 project/target/
 
+.target/
+.cache
+
 out/
 .idea/
 .idea_modules/
