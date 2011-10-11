@@ -16,9 +16,9 @@ end
 
 Buildr::TestFramework << Buildr::Scala::CustomScalaTest
 
-define 'sbtang' do
-	project.version = '0.0.1'
-	project.group = 'me.itang.os'
+define '$name$' do
+	project.version = '$version$'
+	project.group = '$organization$'
 	
 	compile.using :target => '1.5', :javac => %w[-encoding UTF-8], :deprecation => true
 	
