@@ -5,6 +5,7 @@ A [giter8][g8] template for [Scala][scala] applications targeting [sbt][sbt] 0.1
 
     g8 itang/sbtang  
 
+
 [g8]: http://github.com/n8han/giter8#readme
 [scala]: http://www.scala-lang.org
 [sbt]: http://github.com/harrah/xsbt
